@@ -35,5 +35,10 @@ body{
     border-radius: 10px;
 }
 .Tarjeta__cara--delantera{
-    background-color: #ffffff;
+    background-color: #eba118;
+}
+.Tarjeta__cara--trasera{
+    background-color: #17f30ff5;
+    transform: rotateY(100deg);
+    color: #f30f0ff5;
 }
