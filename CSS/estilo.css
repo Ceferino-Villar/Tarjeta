@@ -20,7 +20,7 @@ body{
     transition: transform 1s;
 }
 .Principal:hover .Tarjeta{
-    transform:rotateY(100deg);
+    transform:rotateY(180deg);
 }
 .Tarjeta__cara{
     position: absolute;
@@ -39,6 +39,6 @@ body{
 }
 .Tarjeta__cara--trasera{
     background-color: #17f30ff5;
-    transform: rotateY(100deg);
+    transform: rotateY(180deg);
     color: #f30f0ff5;
 }
